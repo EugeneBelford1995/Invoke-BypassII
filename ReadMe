@@ -1,3 +1,5 @@
 I can't take credit for this, Invoke-Bypass came from OvergrownCarrot1 and is on their GitHub here: https://github.com/overgrowncarrot1/Invoke-Bypass
 
 I simply tweaked it, added a 3rd command line option, and now it gives you a PowerShell reverse shell instead of legacy cmd.exe. 
+
+I tested Invoke-BypassII out in the Avenger TryHackMe room and verified it works. A full writeup is here: https://happycamper84.medium.com/avenger-tryhackme-walkthrough-232ec1d46f9c
