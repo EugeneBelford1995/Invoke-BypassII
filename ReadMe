@@ -1,0 +1,3 @@
+I can't take credit for this, Invoke-Bypass came from OvergrownCarrot1 and is on their GitHub here: https://github.com/overgrowncarrot1/Invoke-Bypass
+
+I simply tweaked it, added a 3rd command line option, and now it gives you a PowerShell reverse shell instead of legacy cmd.exe. 
